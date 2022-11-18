@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# Griffith Library Workshop Template
+# Ten Reproducible Research Things
 
 {% include figure.html img="university-drive.jpg" alt="Students on University Drive, Gold Coast Campus" caption="University Drive" width="75%" %}
 
