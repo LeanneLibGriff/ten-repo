@@ -5,7 +5,7 @@ layout: default
 
 # Ten Reproducible Research Things
 
-{% include figure.html img="sciencelab.jpg" alt="Students on University Drive, Gold Coast Campus" caption="University Drive" width="75%" %}
+{% include figure.html img="sciencelab.jpg" alt="Student in science laboratory" caption="Science Laboratory" width="75%" %}
 
 ## Aims and topics
 
