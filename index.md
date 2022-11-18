@@ -5,32 +5,47 @@ layout: default
 
 # Ten Reproducible Research Things
 
-{% include figure.html img="university-drive.jpg" alt="Students on University Drive, Gold Coast Campus" caption="University Drive" width="75%" %}
+{% include figure.html img="sciencelab.jpg" alt="Students on University Drive, Gold Coast Campus" caption="University Drive" width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+## Aims and topics
 
-> Customised from Evan Williamsons's original Workshop-Template-B to include Griffith Library author and analytics info. This version reflects the November 2021 version of the template that uses Bootstrap 5 and has some new features, as well as the use of Bootstrap icons instead of FontAwesome.
+A collection of resources to help researchers move along the path in reproducibility. You won't go from 0 – 100 but if you can implement one or two things, it can help you later down the track. The ‘be better than you were yesterday’ idea.
 
-*Add your workshop abstract here!*
+The ten things can help answer these questions or scenarios that are possible in any research project or lab, including:
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+Q1) What if a key person from your lab disappeared one day (family or personal emergency, no longer contactable)? Could you all continue your work? Would you know where all your data is stored? Could you keep running effectively for 1 month? 1 year?
 
-{% capture whatsdifferent %}
-This template has been 'Griffithised' in the following ways: 
+- Bus factor
+- Documentation
+- Naming conventions
+- Folder structure for readability
+- Automation
+- git for version control (?)
 
- - Library Google Analytics ID added
- - Publication year updated
- - Content author set as Griffith Uni Library
- - Griffith campus feature photo added
- - Griffith favicon added
- - Thin top bar coloured with 'Griffith Red' (#e30918)
+Q2) Imagine you're travelling and lose your laptop bag with your external hard drives? Or your office is robbed? Could you continue your work? Is your data backed up? Encrypted? Solutions include:
 
-{% include alert.html text="That's fantastic!" color="info" %}
+- Research storage
+- Security- encrypt your hard drive
+- Separating identified variables
 
-{% endcapture %}
-{% include card.html header="What's been changed?" text=whatsdifferent %}
+Q3) Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. Could you? Solutions include:
+
+- Research Storage – Vault
+- Publish your final state data in a repository
+- Documentation
+- Versions of software
+- Keep raw data separate (Research Storage – Vault)
+
+Q4) If a research partner organization believes your "sensitive" data has been made available to others (ie a data breach). Could you show that steps were taken to avoid this or show that it couldn't happen? Solutions include:
+
+- Research space – to trace who you have shared a file with
+- Computer encryption (General good computer safety)
+- General good computer safety – unique passwords and use Multi factor Authentication when possible
+- Separating identified variables
+
+## Audience
+
+This workshop is aimed at researchers and research students.
 
 {% include toc.html %}
 
