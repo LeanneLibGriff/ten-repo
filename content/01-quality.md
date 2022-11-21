@@ -22,7 +22,7 @@ Tidy data provides both the stability and the flexibility to reliably process an
 
 In a spreadsheet, this format must not vary; neither to accommodate additional data for an individual observation, nor to create an aesthetically pleasing layout e.g. merged cells.
 
-{% include figure.html img="2022-11-Tidy_Data.jpg" alt="tidy data" caption="tidy data" width="75%" %}
+{% include figure.html img="2022-11-Tidy_Data.jpg" alt="tidy data" caption="tidy data" width="100%" %}
 
 With the requirement for each cell to contain a value, it is important for each cell to contain only one. This will isolate and label the information about a variable, and simplify the process of accessing it when required. As an example, when recording the addresses of respondents, the use of a single cell or line for the entire address makes potentially useable data difficult to access. By dividing these details across several columns, the potential exists to model additional data based on location.
 
