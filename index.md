@@ -9,7 +9,7 @@ layout: default
 
 ## Aims and topics
 
-A collection of resources to help researchers move along the path in reproducibility. 
+A collection of resources to help researchers move along the path towards reproducibility. 
 
 The ten things can help answer these questions or scenarios that are possible in any research project or lab, including:
 
