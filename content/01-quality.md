@@ -1,15 +1,9 @@
 ---
-title: Data quality
+title: Step 1: Data quality
 nav: Quality
 ---
 
-## Step 1 Data Quality
-
-  Section 1: Using "tidy data" principles
- 
-  Section 2: Identify and code illegal or missing values
-
-### Using "tidy data" principles
+### "Tidy data" principles
 
 Are your datasets future-proof? 
 
@@ -18,16 +12,17 @@ As your research progresses, new possibilities for enquiry might be revealed, an
 The principles of **tidy data** offer a way of recording your data, be it in spreadsheets or database tables, so that every element within those datasets can easily be accessed for new analysis and modelling. Even if a dataset needs to be reconfigured before being imported into the new software, it will be a simple process to produce the necessary file.
 
 **The fundamental principles of tidy data are:**
-- Each variable is a column.
-- Each row is an observation.
+- Each variable is a column
+- Each row is an observation
 - Each cell contains one value.
 
 By arranging all the variables of an observation along a single row, all elements about that observation are contained within a clearly delineated record: the single row. With all variables recorded in columns, these observations of a patient, a survey respondent, an event, a biological sample etc, are reliably linked to their subject.
 
 Tidy data provides both the stability and the flexibility to reliably process and export data to any system; including running processes and modelling which later become desirable or significant for your research.  
 
-In a spreadsheet, this format must not vary; neither to accommodate additional data for an individual observation, nor to create an aesthetically pleasing layout e.g. merged cells. [***incorporate images from PowerPoint***]
-![TidyData](https://github.com/LeanneLibGriff/nine-repro/blob/gh-pages/images/2022-11-Tidy_Data.jpg)
+In a spreadsheet, this format must not vary; neither to accommodate additional data for an individual observation, nor to create an aesthetically pleasing layout e.g. merged cells.
+
+{% include figure.html img="2022-11-Tidy_Data.jpg" alt="tidy data" caption="tidy data" width="75%" %}
 
 With the requirement for each cell to contain a value, it is important for each cell to contain only one. This will isolate and label the information about a variable, and simplify the process of accessing it when required. As an example, when recording the addresses of respondents, the use of a single cell or line for the entire address makes potentially useable data difficult to access. By dividing these details across several columns, the potential exists to model additional data based on location.
 
