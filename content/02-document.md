@@ -7,7 +7,7 @@ Throughout your research, you make many choices, from topic to methodology, from
 
 For your research to be reproducible in the future, even by you, all those choices need to be documented and available. 
 
-{% include alert.html text=" "Documentation is a love letter to your future self" - Dr Damian Conway, Computer Scientist" align="center" color="success" %}
+{% include alert.html text="*Documentation is a love letter to your future self* - Dr Damian Conway, Computer Scientist" align="center" color="success" %}
 
 There may be more than one valid way to collect and to analyse data but if the same choices are not made later, the result may be different. Methods can vary, equipment may measure and record differently, approaches may have inherent biases for which adjustments need to be made. Each data point needs to be interpreted in the context in which it was collected. 
 
