@@ -1,6 +1,6 @@
 ---
 title: Step 2 - Documentation
-nav: document
+nav: Document
 ---
 
 ### Step 2
