@@ -1,5 +1,5 @@
 ---
-title: Step2 - Documentation
+title: Step 2 - Documentation
 nav: true
 ---
 
