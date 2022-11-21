@@ -32,7 +32,7 @@ In a spreadsheet, this format must not vary; neither to accommodate additional d
 With the requirement for each cell to contain a value, it is important for each cell to contain only one. This will isolate and label the information about a variable, and simplify the process of accessing it when required. As an example, when recording the addresses of respondents, the use of a single cell or line for the entire address makes potentially useable data difficult to access. By dividing these details across several columns, the potential exists to model additional data based on location.
 
 {% capture text %}
-Read Hadley Wickham’s article on [Tidy data](https://vita.had.co.nz/papers/tidy-data.pdf). Using a spreadsheet could you apply some of these principles to your data from the beginning of a project or during a project?{% endcapture %}{% include card.md header="First steps" text=text %}
+Read Hadley Wickham’s article on [Tidy data](https://vita.had.co.nz/papers/tidy-data.pdf). Using a spreadsheet could you apply some of these principles to your data from the beginning of a project or during a project?{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
 To take datasets from outside sources or from inexact processes such as webscraping and prepare them for analysis along with your tidy data, you may need to:
