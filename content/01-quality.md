@@ -1,5 +1,5 @@
 ---
-title: Step 1: Data quality
+title: Step 1 - Data quality
 nav: Quality
 ---
 
