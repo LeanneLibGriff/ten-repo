@@ -3,7 +3,7 @@ title: Introduction
 nav: Intro
 ---
 
-## Introduction: Replication vs Reproducible Research
+## Replication vs Reproducible Research
 
 A basic tenet in science is the ability to replicate the results of any experiment. Replication verifies results; however, research papers often lack the detail required for independent replication. Many attempts at replicating the results of well-known scientific studies have failed in a variety of disciplines. 
 
@@ -30,5 +30,5 @@ This self-paced tutorial outlines ten steps to make your research reproducible, 
 By following these steps, you will not only improve on the quality of your research processes but facilitate the development of new and innovative research through good practice.
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/ten-repo/content/1-quality.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/ten-repo/content/01-quality.html">NEXT --></a>
 </p>
