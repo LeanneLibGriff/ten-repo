@@ -1,5 +1,5 @@
 ---
-title: Introduction: Replication vs Reproducible Research
+title: Introduction
 nav: Intro
 ---
 
