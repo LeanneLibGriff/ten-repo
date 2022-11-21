@@ -2,12 +2,12 @@
 title: Step 2 - Documentation
 nav: Document
 ---
-          
+
+{% include alert.html text="*Documentation is a love letter to your future self* - Dr Damian Conway, Computer Scientist" align="center" color="success" %}
+
 Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
 For your research to be reproducible in the future, even by you, all those choices need to be documented and available. 
-
-{% include alert.html text="*Documentation is a love letter to your future self* - Dr Damian Conway, Computer Scientist" align="center" color="success" %}
 
 There may be more than one valid way to collect and to analyse data but if the same choices are not made later, the result may be different. Methods can vary, equipment may measure and record differently, approaches may have inherent biases for which adjustments need to be made. Each data point needs to be interpreted in the context in which it was collected. 
 
@@ -31,32 +31,31 @@ Comprehensive documentation is the major strategy for minimising the disruption.
 
 ## How?
 {% capture text %}
-Read [How to start Documenting and more](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by the *Consortium of European Social Science Data Archives* and the *European Research Infrastructure Consortium*.
+Read [How to start Documenting and more](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by the *Consortium of European Social Science Data Archives* and the *European Research Infrastructure Consortium*. Take note of how you can start documenting at project or study level and data level, and the methods for qualitative and quantitative data. 
  
-Start by documenting in a text file or document- any start is a good start. Have this document automatically synced to the cloud with your data or keep this in a shared place such as Microsoft teams/Sharepoint or Research Storage!{% endcapture %}
+Start by documenting in a text (.txt) file or Word document - any start is a good start. Include information on where your results and working data are saved. You can also include a copy your lab notebook if you have one onto a digital format. 
+
+Save documentation somewhere that's accessible to your supervisor/team such as Microsoft Teams, Sharepoint or Research Drive.  Find out more about shared storage spaces in [Step 7 - Cloud backups](https://gulibrarysandbox.github.io/ten-repo/content/07-cloud.html).{% endcapture %}
 {% include card.html header="First steps" text=text %}
 
 {% capture text %}
-Once you have the basics in place, go into detail on how your workflow goes from your raw data to the finished results. This can be anything from a downloaded function list from SPSS/NVIVO to the code used to create it.{% endcapture %}{% include card.html header="Intermediate" text=text %}
+Once you have the basics in place, document in detail on how your workflow goes from your raw data to the finished results. 
+This can be anything from a downloaded function list from SPSS/NVIVO to the code used to create it. 
+You could also try to Sync the document automatically to the cloud with your data.{% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
 Now that you've got a good head start, it's time to learn about Git Repositories and wikis. 
-Learn how to create a repository for in Github with their [Hello world tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
+Learn how to create a code repository in Github with their [Hello world tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
 {% endcapture %}{% include card.html header="Advanced" text=text %}
 
 
 ### Internal Resources
-* Wiki options at Griffith
-* Wiki or using the documents in Teams
+* Wiki options at Griffith (??)
+* [Sharepoint at Griffith](https://griffitheduau.sharepoint.com/sites/Productivity-Content/SitePages/SharePoint-Online.aspx)
 * [Research Space](https://research-storage.griffith.edu.au/)
-* Griffith's Gitlab wiki options - talk to eResearch Support or Hacky Hour
+* Griffith's Gitlab wiki options - talk to [eResearch Support](https://www.griffith.edu.au/eresearch-services) or [Hacky Hour](https://www.griffith.edu.au/eresearch-services/hacky-hour)
 
 ### External Resources
-[British Ecology Reproducibility Book](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
-
-[How to start Documenting and more by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
-
-[Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/)
-
----
-|[1 - Quality](https://guereslib.github.io/ten-repo/1-quality)  |  [3 - Naming](https://guereslib.github.io/Reproducible-Research-Things/3-Naming) |
+* [British Ecology Reproducibility Book](https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf)
+* [How to start Documenting and more by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)
+* [Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/)
