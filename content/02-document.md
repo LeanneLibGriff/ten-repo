@@ -2,16 +2,12 @@
 title: Step 2 - Documentation
 nav: Document
 ---
-
-### Step 2
-
-### Documentation
           
 Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
 For your research to be reproducible in the future, even by you, all those choices need to be documented and available. 
 
-> "***Documentation is a love letter to your future self***" <br>Damian Conway
+{% include alert.html text=" "Documentation is a love letter to your future self" Damian Conway"align="center" color="success" %}
 
 There may be more than one valid way to collect and to analyse data but if the same choices are not made later, the result may be different. Methods can vary, equipment may measure and record differently, approaches may have inherent biases for which adjustments need to be made. Each data point needs to be interpreted in the context in which it was collected. 
 
