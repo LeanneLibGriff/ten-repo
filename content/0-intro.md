@@ -28,3 +28,7 @@ ___
 This self-paced tutorial outlines ten steps to make your research reproducible, beginning with data quality or tidy data, documentation, management of sensitive data, through to the publication of datasets. 
 
 By following these steps, you will not only improve on the quality of your research processes but facilitate the development of new and innovative research through good practice.
+
+<p align="center">
+  <a href="https://griffithunilibrary.github.io/ten-repo/content/1-quality.html">NEXT --></a>
+</p>
