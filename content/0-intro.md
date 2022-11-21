@@ -18,7 +18,6 @@ Reproducible research has most of the advantages of replicating studies without 
 {% include button.html text="Watch the steps above on this video" link="https://vimeo.com/422326756/622764409f" color="info" %}
 ___
 
-
 #### Benefits of reproducible research
 
 - Easier recall and explanation of work to collaborators, supervisors and reviewers
@@ -32,15 +31,3 @@ This self-paced tutorial outlines ten steps to make your research reproducible, 
 
 
 By following these steps, you will not only improve on the quality of your research processes but facilitate the development of new and innovative research through good practice.
-
-
-
-
-
-
-
-
-
-
-
-
