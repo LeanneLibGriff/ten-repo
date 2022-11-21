@@ -1,6 +1,6 @@
 ---
 title: Step 3 - Naming
-nav: true
+nav: Naming
 topics: Content; Markdown; Includes
 description: >
     This text is a "section description". Below is "section topics", followed by an example section video embed. This page details how to write content pages and add interest with includes.
