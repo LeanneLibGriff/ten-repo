@@ -1,6 +1,6 @@
 ---
 title: Step 5 - Automation
-nav: automate
+nav: Automate
 ---
 
 ### Step 5
