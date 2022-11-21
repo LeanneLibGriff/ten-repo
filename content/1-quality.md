@@ -54,3 +54,4 @@ Learn to apply some tidy data methods with this [online module](https://griffith
 {% capture text %}
 Learn R for Data Science, specifically the [tidyr package](https://r4ds.had.co.nz/tidy-data.html), or Python for Data Science and the [pandas package](https://byuidatascience.github.io/python4ds/tidy-data.html).
 Attend an Introductory coding course held at your institution such as [Griffith's Coding Workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour).{% endcapture %}{% include card.html header="Advanced steps - learn to tidy data with code" text=text %}
+
