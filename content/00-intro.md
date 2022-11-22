@@ -5,7 +5,7 @@ nav: Intro
 
 ## Replication vs Reproducible Research
 
-A basic tenet in science is the ability to replicate the results of any experiment. Replication verifies results; however, research papers often lack the detail required for independent replication. Many attempts at replicating the results of well-known scientific studies have failed in a variety of disciplines. 
+#### A basic tenet in science is the ability to replicate the results of any experiment. Replication verifies results; however, research papers often lack the detail required for independent replication. Many attempts at replicating the results of well-known scientific studies have failed in a variety of disciplines. 
 
 Replicating studies with new data is expensive, for this reason computationally reproducible research is recommended as a way to assess the validity and rigor of scientific results. Research is considered reproducible when others can reproduce results of a study with only the original data, code, conditions and documentation. 
 
