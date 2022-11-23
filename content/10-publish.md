@@ -3,10 +3,10 @@ title: Step 10 - Publish with Persistent Identifers
 nav: Publish
 ---
 
- Step 10
-# Digital Object Identifiers (DOI) and Persistent Identifiers (PiD)  
 
-#### At the end of your project, make your research data findable, accessible and re-useable using a Persistant Identifier (PiD) such as a DOI.
+## Digital Object Identifiers (DOI) and Persistent Identifiers (PiD)  
+
+At the end of your project, make your research data findable, accessible and re-useable using a Persistant Identifier (PiD) such as a DOI.
 
 ### Identifiers vs Persistant Identifiers
 
